@@ -2,7 +2,7 @@
     <body>
         <main>
         <h1 style="font-family: 'Times New Roman', serif;">Trágico accidente automovilístico cobra la vida de la princesa Diana</h1>
-        <section>
+        <section class="section">
         <h2 style="font-family: 'Times New Roman', serif;">La princesa Diana muere en un accidente automovilístico</h2>
         <h4 style="font-family: 'Times New Roman', serif;">París, 31 de agosto de 1997</h4>
         <p style="font-family: Times New Roman, serif;">En las primeras horas de la mañana de hoy, la princesa Diana de Gales falleció en un trágico accidente automovilístico en el túnel del Pont de l'Alma, en París. El vehículo en el que viajaba junto a su acompañante, <a href="https://es.wikipedia.org/wiki/Dodi_Al-Fayed.wikipedia.org/wiki/H%C3%B4tel_Ritz_(Par%C3%ADs)">Dodi Al-Fayed</a>, y su chofer, <a href="https://es.wikipedia.org/wiki/Dodi_Al-Fayed.wikipedia.org/wiki/H%C3%B4tel_Ritz_(Par%C3%ADs)">Henri Paul</a>, se estrelló contra un pilar mientras intentaba evadir a un grupo de paparazzi que los perseguían en motocicletas. Según los primeros informes, el chofer del automóvil, Henri Paul, quien también se desempeñaba como jefe de seguridad del Hotel Ritz, habría perdido el control del vehículo debido a la alta velocidad con la que intentaba escapar de los fotógrafos.<figcaption> <p style="font-family: Times New Roman, serif;"> Se sospecha que <strong>Paul manejaba bajo los efectos del alcohol y medicamentos,</strong> lo que podría haber contribuido al siniestro.</figcaption>
